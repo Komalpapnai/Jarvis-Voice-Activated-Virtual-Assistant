@@ -23,7 +23,7 @@ Libraries Used:
   Platform:Windows
 
 Project Structure
-Jarvis
+Jarvis:
 	main.py               # Main executable file
 	aiProcess.py          # Handles AI-based responses
 	voice.py              # Speech recognition and TTS

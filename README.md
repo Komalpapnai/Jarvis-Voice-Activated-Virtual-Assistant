@@ -23,11 +23,10 @@ Libraries Used:
   Platform:Windows
 
 Project Structure
-  Jarvis/
-	│
-	├── main.py               # Main executable file
-	├── aiProcess.py          # Handles AI-based responses
-	├── voice.py              # Speech recognition and TTS
-	├── requirements.txt      # Project dependencies
-	├── .env.example          # Example environment file
-	└── README.md             # Project documentation
+Jarvis
+	main.py               # Main executable file
+	aiProcess.py          # Handles AI-based responses
+	voice.py              # Speech recognition and TTS
+	requirements.txt      # Project dependencies
+	.env.example          # Example environment file
+	README.md             # Project documentation
